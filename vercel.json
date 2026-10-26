@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://jrjunior.pythonanywhere.com/$1",
+      "permanent": false
+    }
+  ]
+}
